@@ -1,6 +1,7 @@
 # 令和:bit
 
-新元号「令和」プログラミング書初め道場で、micro:bitによる書初めロボット「令和:bit」のデモを行いました。
+新元号「令和」プログラミング書初め道場で、micro:bitによる書初めロボット「令和:bit」のデモを行いました。 
+
 [![令和:bit](https://img.youtube.com/vi/2eLG0n90_rk/0.jpg)](https://www.youtube.com/watch?v=2eLG0n90_rk)
 
 

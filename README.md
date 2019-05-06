@@ -40,8 +40,8 @@ https://github.com/jp-96/reiwa-bit/tree/master/stl
 ### サーボ MG 996R
 
 <img src="https://raw.githubusercontent.com/jp-96/reiwa-bit/master/pic/servo.jpg" width="480">
-参考価格：3ケ1,281円（送料込み）
-[ebay.com](https://www.ebay.com/itm/LK-EG-MG996R-Metal-Torque-Gear-Digital-Servo-For-RC-Truck-Car-Boat-Helicopte/253622268503)
+参考価格：3ケ1,281円（送料込み）  
+https://www.ebay.com/itm/LK-EG-MG996R-Metal-Torque-Gear-Digital-Servo-For-RC-Truck-Car-Boat-Helicopte/253622268503
 
 
 ### ねじ類

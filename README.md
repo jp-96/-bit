@@ -48,3 +48,6 @@ https://www.ebay.com/itm/LK-EG-MG996R-Metal-Torque-Gear-Digital-Servo-For-RC-Tru
 ### ねじ類
 
 <img src="https://raw.githubusercontent.com/jp-96/reiwa-bit/master/pic/screw.jpg" width="480">
+
+# License (ライセンス)
+Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
